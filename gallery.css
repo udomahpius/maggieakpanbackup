@@ -13,7 +13,7 @@
     }
   }
   @media (min-width: 500px){
-    .grid-display, .flex-display{
+    .grid-display{
         display:grid !important;
         grid-template-columns: repeat(1, 1fr) !important;
     }
