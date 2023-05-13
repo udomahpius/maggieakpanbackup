@@ -3,7 +3,7 @@
   }
   
   @media (max-width: 500px){
-    .grid-display{
+    .grid-display, .home-grid{
         display:block !important;
         /* grid-template-columns: repeat(1, 1fr) !important; */
     }
