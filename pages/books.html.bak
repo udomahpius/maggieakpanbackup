@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../images/img-3.jpeg">
+    <title>Publications by Margaret Akpan - Book Chapters</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/animate.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.css">
+    <link rel="stylesheet" href="../css/owl.carousel.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/book.css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600" rel="stylesheet" type="text/css">
+  </head>
+  <body> <!-- =========================
+     PRE LOADER       ============================== -->
+    <div class="preloader">
+      <div class="sk-rotating-plane"></div>
+    </div>
+    <!-- =========================
+     NAVIGATION LINKS     ============================== -->
+    <div class="navbar navbar-fixed-top custom-navbar nav-shadow" role="navigation">
+      <div class="container ">
+        <!-- navbar header -->
+        <div class="navbar-header "> <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span> <span class="icon icon-bar"></span> </button> <a href="#" class="navbar-brand center-align logo">Margaret
+            Akpan</a> </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right ">
+            <li><a href="index.html#intro" class="smoothScroll">Home</a></li>
+            <li><a href="index.html#creativities" class="smoothScroll">Creativities</a></li>
+            <li><a href="index.html#experince" class="smoothScroll">Experience</a></li>
+            <li><a href="index.html#services" class="smoothScroll">Service</a></li>
+            <li><a href="index.html#publications" class="smoothScroll">Publications</a></li>
+            <li><a href="../gallery.html" target="_blank" class="smoothScroll">Gallery</a></li>
+            <li><a href="#contact" class="smoothScroll">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- =========================
+    INTRO SECTION   ============================== -->
+    <section id="intro_book" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 response">
+            <h3 class="wow bounceIn media-font-size" data-wow-delay="0.9s">MARGARET G. AKPAN, Ph.D</h3>
+            <h1 class="wow fadeInUp media-font-size" data-wow-delay="1.6s"> Department Of Theatre Arts University Of Uyo,<br> Uyo Akwa Ibom State, Nigeria
+            </h1>
+            <a href="#about" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">ABOUT ME</a> <a href="../cv/CURRICULUM%20VITAe.pdf"
+              download="../cv/CURRICULUM VITAe.pdf" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">DOWNLOAD CV</a> </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    BOOKS SECTION   ============================== -->
+    <section id="book" class="parallax-section">
+      <div class="container">
+        <h3 style="color: black; " class="media-font-size"> Book Chapters</h3>
+        <div id="book" class="grid-display">
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/1.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret G. (2005) <br><b>Improvisation: The Actors Technique in Effiong Johnson (ed). The Art of Acting: A Student Friendly
+                Anthology.</b><br> Concept Publications Limited Lagos. <br><a target="_blank" href="pdfs/Improvisation the actor's  technique.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/2.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret G. (2007) <br><b>Perspectives and Meaning in Anmed Yerima’s The Twist</b><br> in Uwemedimo Atakpo &amp; Steven E. Inegbe. Making
+                Images, re-making Life: Art and Life in Anmed Yerima(ed). Modern Business Press, Uyo 2007. <br><a target="_blank" href="pdfs/Perspertives and meaning in armed verima.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/3.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret Gregory, (2012) <br><b>A Prospective Costume Plot - for the Production of Sunnie Ododo’s Hard Choice</b><br> in Omoera, O. S.
+                Adeyemi, S. and Binebai B. (eds) A Gazelle of the Savannah: Sunday Ododo and the framing of Techno-Cultural Performance in Nigeria.
+                Alpha Crownes Publishers, Rochester, - pp. 148-158. <br><a target="_blank" href="pdfs/A prospective costume plot for the production of sunnie.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/4.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret G. and &copy;. U. Jacob, (2013) <br><b>Costume and Make-up of Eka-Uman Ceremony in tbibio Cultural Life</b><br> In Akoh, A.D and
+                Inegbe S. E. (eds). Arts, Culture &amp; Communication in a Postcolony: A Festschrift for Lawrence Olanrele Bamidele, Alpha Crownes
+                Publishers, Rochester, pp. 85-103. <a target="_blank" href="pdfs/Costume and make up of Eka-uman.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/5.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Effiong Johnson and Margaret Akpan. (2013) <br><b>Directing: Script Understanding, Analysis and interpretation:</b><br> In Effiong Johnson (ed)
+                Script: Understanding, Analysis, Interpretation for Performance. University of Cape Coast Press, Cape Coast, .pp1- 33. </p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/6.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret. (2013) <br><b>Roles and Paraphernalia in Ekpe Efik Performance:</b><br> In Effiong Johnson (ed) fbom Culture Offerings. Arts,
+                Crafts and Performances, University of Cape Coast Press, Cape Coast, pp. 225-232. <br><a target="_blank" href="pdfs/Roles and paraphernalia.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/7.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret G. (2013) <br><b>“images of the Grim in Kalu Uka’s The Hunt For Sugar Baby:</b><br> In Effiong E. Johnson and Steven E. inegbe
+                (eds). A Road Well Conquered: Kalu Uka, Literature and Pedagogy: A Festchrift in Honour of Professor Kalu Uka, AlphaCrown Publishers,
+                Rochester, po 198-204. </p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/8.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Imaobong, Akpan, Margaret Akpan et.al. (2014). <br><b>“Akwa bom Women: Contribution to Entertainment”</b><br> In: Nigerian’s Contemporary: 100
+                years of Akwa Ibom Women’s Imprint in National Developments (Eds.) Eno-Abasi E. Urua, et.al. Centre for Gender Studies, University of
+                Uyo. <br><a target="_blank" href="pdfs/Akwa ibom women contribution to entertainment.pdf">Download</p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/9.png"
+              class="img-responsive" alt="speakers">
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan Margaret G. (2016) <br><b>“Three Ancient Costume Types’</b><br>. In: Ajibade Babson and Effiong Omini, eds., Creative and Media Arts Calabar:
+                BAAJ International Publishers. (pp 43-53). <br><a target="_blank" href="pdfs/Three ancient costume types.pdf">Download</a></p>
+            </div>
+          </div>
+          <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size " data-wow-delay="0.3s"> <img src="../images/pimages/10.png"
+              >
+            <div class="padding-item  padding-item-block book-card-height">
+              <p> Akpan, Margaret G.&amp; Mbuotidem Etim (2017) <br><b>Challenges of Scenery Construction in Uniuyo’s Little Play House: Itoro Ituen’s Ufok
+                Ete Ekpenyong in focus</b><br> in Sunny E. Ododo &amp; Osakwe S. Omoera (eds) Theatre, Media and Cultural Re-Engineering in Nigeria. Kraft
+                Books Ltd. Page-29 <br><a target="_blank" href="pdfs/Challenges of scenery construction in uniuo.pdf">Download</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    PUBLICATION SECTION   ============================== -->
+    <section id="publications" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <h3> Discover all Publication by Margaret Akpan through the categories below</h3>
+          <div class="wow fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.3s"> <i class="fa fa-newspaper-o"></i>
+            <h3>Journal Articles</h3>
+            <!--<p> Discover all Journal Publication of Margaret G. Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/journal.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+          <div class="wow fadeInUp col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.6s"> <i class="fa fa-book"></i>
+            <h3>Book Chapters</h3>
+            <!--<p> Here are the Book Chapters of Margaret G. Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/books.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+          <div class="wow fadeInRight col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.9s"> <i class="fa fa-graduation-cap"></i>
+            <h3>Dissertations</h3>
+            <!--<p> Thesis and Dissertations of Margaret Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/thesis.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+   Productions SECTION   ============================== -->
+    <div id="production">
+      <section id="speakers" class="parallax-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 wow bounceIn">
+              <div class="section-title">
+                <h2 class="media-font-size">Artistic Productions</h2>
+                <p>Below are some Artistic productions that Margaret Akpan consulted</p>
+              </div>
+            </div>
+            <!-- Testimonial Owl Carousel section
+    ================================================== -->
+            <div id="Artistic" class="owl-carousel">
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.9s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-1.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Install the Princess’ by Effiong Johnson Directed by ‘Sunday Umanah </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2016</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-2.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Not my Generation’ by Udoibanga Esu, Directed by Sunday Umanah </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.9s">
+                <div class="speakers-wrapper box-hover-shadow trans">
+                  <!-- <img src="../images/grt-3.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘A Season of Plots’ by Bassey Ubong, Directed by Ofonime Inyang </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2017</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper box-hover-shadow trans">
+                  <!-- <img src="../images/grt-4.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘The Traveller’ A Uniuyo 22™ and 23” combined convocation play </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2017</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-5.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Xhibitz’ Season 3, Directed by Sunday Umanah </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2017</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-6.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Ndokoro’ by Udo Ibanaga Esu, Directed by Sunday Umanah </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper box-hover-shadow trans">
+                  <!-- <img src="../images/grt-7.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Dara the Musical’ directed by Victor Thompson </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2019</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-8.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Shattered dreams’ and Ayeke class workshop directed by Prof. Effiong Johnson </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-9.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Norah’ written sind directed by Samuel, Edidiong Marrison </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-11.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Hope Harvesters’ written by Victor S. Dugga and directed by Adewole Paul </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> - 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-12.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘The Saxophonist screen play’ — Youbere Ntia, directed by Nyakno Uko </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-13.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Akan’ written and directed by Effiong, Christian Jesse </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-14.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Perfect Mother’ wriiten by Uduak Akpabio, directed by Ofonime Inyang </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2016</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-15.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Oga Titu’ written by Utibe Charles, directed by Utibe Charles </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2016</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper  box-hover-shadow trans">
+                  <!-- <img src="../images/grt-16.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘Medicine for love’ written by James Ene Henshaw, directed by Favour Robert </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2016</i></h3>
+                  </div>
+                </div>
+              </div>
+              <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+                <div class="speakers-wrapper   box-hover-shadow trans">
+                  <!-- <img src="../images/grt-18.jpg" class="img-responsive" alt="speakers"> -->
+                  <div class="speakers-thumb caro-height-production">
+                    <p> ‘The Blind gods’ written by Maurice Udom, directed by Udonna Aniedi </p>
+                    <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2016</i></h3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- =========================
+    CONTACT SECTION   ============================== -->
+      <section id="contact" class="parallax-section">
+        <div class="container">
+          <div class="row">
+            <div class="wow fadeInUp col-md-offset-1 col-md-5 col-sm-6" data-wow-delay="0.6s">
+              <div class="contact_des">
+                <p class="set-text-white" align="left"> Dr. Margaret G. Akpan a costume designer and consultant with academic affiliation at
+                  Department of Theatre Arts, University of Uyo, Uyo, Akwa Ibom State, Nigeria </p>
+                <div class="media-img"> <img src="../images/cos-5.png" class="img-responsive " alt="speakers"> </div>
+                <div class="">
+                  <div class="flex-item">
+                    <ul class="social-icon_1">
+                      <li class="fa fa-phone wow fadeInUp set-text-white" data-wow-delay="1s"><br>
+                      </li>
+                    </ul>
+                    <ul class="social-icon_2">
+                      <li class=" set-text-white contact-font">08023393571</li>
+                    </ul>
+                  </div>
+                  <div class="flex-item">
+                    <ul class="social-icon_1">
+                      <li class="fa fa-envelope wow fadeInUp set-text-white" data-wow-delay="1s"><br>
+                      </li>
+                    </ul>
+                    <ul class="social-icon_2">
+                      <li class=" set-text-white contact-font">eggylee59@yahoo.com</li>
+                    </ul>
+                  </div>
+                </div>
+                <a href="../cv/CURRICULUM%20VITAe.pdf" download="../cv/CURRICULUM VITAe.pdf" class="btn btn-danger">DOWNLOAD CV</a> </div>
+            </div>
+            <div class="wow fadeInUp col-md-5 col-sm-6" data-wow-delay="0.9s">
+              <div class="contact_detail">
+                <div class="section-title">
+                  <h2 class="set-text-white media-font-size">Contact me</h2>
+                </div>
+                <form action="mailto:eggylee59@yahoo.com" method="post"> <input name="name" class="form-control" id="name" placeholder="Name" type="text">
+                  <input name="email" class="form-control" id="email" placeholder="Email" type="email"> <textarea name="message" rows="5" class="form-control"
+id="message" placeholder="Message"></textarea>
+                  <div class="col-md-6 col-sm-10"> <input name="submit" class="form-control" id="submit" value="SEND" type="submit"> </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    FOOTER SECTION   ============================== -->
+      <footer>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2023 Margaret Gregory Akpan | By: <a rel="nofollow" href="http://dynetng.org"
+                  target="_parent">DyNETTech LLC</a></p>
+              <ul class="social-icon">
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/rg.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/gs.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/scopus.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/wos.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/academia.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/orcid.png" width="50px"> </a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    <!-- Back top -->
+    <!-- =========================
+     SCRIPTS   ============================== -->
+    <script src="../js/jquery.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jquery.parallax.js"></script>
+    <script src="../js/owl.carousel.min.js"></script>
+    <script src="../js/smoothscroll.js"></script>
+    <script src="../js/wow.min.js"></script>
+    <script src="../js/custom.js"></script>
+  </body>
+</html>

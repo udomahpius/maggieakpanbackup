@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../images/img-3.jpeg">
+    <title>The Official Knowledgebase of Dr. Margaret Akpan</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/animate.css">
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/owl.theme.css">
+    <link rel="stylesheet" href="../css/owl.carousel.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/body-bg.css">
+    <link rel="stylesheet" href="../gallery.css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600" rel="stylesheet" type="text/css">
+  </head>
+  <body> <!-- =========================
+     PRE LOADER       ============================== -->
+    <div class="preloader">
+      <div class="sk-rotating-plane"></div>
+    </div>
+    <!-- =========================
+     NAVIGATION LINKS     ============================== -->
+    <div class="navbar media-pad navbar-fixed-top custom-navbar nav-shadow" role="navigation">
+      <div class="container ">
+        <!-- navbar header -->
+        <div class="navbar-header "> <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span> <span class="icon icon-bar"></span> </button> <a href="#" class="navbar-brand center-align  logo">Margaret
+            Akpan</a> </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right ">
+            <li><a href="#intro" class="smoothScroll">Home</a></li>
+            <li><a href="#creativities" class="smoothScroll">Creativities</a></li>
+            <li><a href="#experince" class="smoothScroll">Experience</a></li>
+            <li><a href="#services" class="smoothScroll">Service</a></li>
+            <li><a href="#publications" class="smoothScroll">Publications</a></li>
+            <li><a href="../gallery.html" target="_blank" class="smoothScroll">Gallery</a></li>
+            <li><a href="#contact" class="smoothScroll">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- =========================
+    INTRO SECTION   ============================== -->
+    <section id="intro" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 response">
+            <h3 class="wow bounceIn media-font-size" data-wow-delay="0.9s">MARGARET GREGORY AKPAN, Ph.D</h3>
+            <h1 class="wow fadeInUp media-font-size" data-wow-delay="1.6s"> Department Of Theatre Arts University Of Uyo,<br>
+              Uyo Akwa Ibom State, Nigeria </h1>
+            <a href="#about" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-wow-delay="2.3s">ABOUT ME</a> <a href="../cv/CURRICULUM%20VITAe.pdf"
+              download="../cv/CURRICULUM VITAe.pdf" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-wow-delay="2.3s">DOWNLOAD CV</a> </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    OVERVIEW SECTION   ============================== -->
+    <section id="about" class="parallax-section bg">
+      <div class="container">
+        <div class="row">
+          <div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.6s">
+            <h2>Profile</h2>
+            <h5>Dr. Margaret Akpan is an erudite scholar of Theatre Arts at University of Uyo.</h5>
+            <h5>She started her academic career with University of Cross River State anf later joined Univesity of Uyo as a graduate assistant.</h5>
+            <h5>She is highly experienced both in the class room and in the field. At the University, she teaches 15 courses and supervises post
+              graduate and undergraduate student. Her amiable disposition and attention to detail, has made her a two term Head of Department for at
+              the Department of Theatre arts. At the field, she has been a Costumier and Make-Up Artist for several award winning acts and plays.</h5>
+            <h5> Her research in Theatre Technology and Directing has given birth to several Journal Artciles and Book Chapters. Majority are open
+              access in this knowledgebase.</h5>
+            <h5> She is a member of professional bodies such as Actors Guild of Nigeria (AGN) and is happily married and blessed with beatiful
+              children. </h5>
+          </div>
+          <div class="wow fadeInUp col-md-6 col-sm-6 border-image" data-wow-delay="0.9s"> <img src="../images/maggie-picture-removebg-preview.png" class="img-responsive"
+              alt="Overview"> </div>
+        </div>
+      </div>
+    </section>
+    <!-- Academic background -->
+    <section id="speakers" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 wow bounceIn">
+            <div class="section-title">
+              <h2 class="media-font-size"> Academic And Professional Background </h2>
+              <p> </p>
+            </div>
+          </div>
+          <!-- Testimonial Owl Carousel section
+			================================================== -->
+          <div id="owl-speakers" class="owl-carousel">
+            <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.7s">
+              <div class="speakers-wrapper padding-item box-shadow width">
+                <!-- <img src="../images/speakers-img5.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb">
+                  <h3>National Ceitificate in Education (NCE) Music</h3>
+                  <p> College of Education, Uyo </p>
+                  <h3 class="fa fa-calendar color"> 1982</h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.10s">
+              <div class="speakers-wrapper padding-item box-shadow width">
+                <!-- <img src="../images/speakers-img5.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb">
+                  <h3>B.A. (Hons) (Theatre Arts)</h3>
+                  <p> University of Calabar, Calabar </p>
+                  <h3 class="fa fa-calendar color"> 1987</h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.8s">
+              <div class="speakers-wrapper padding-item box-shadow width">
+                <!-- <img src="../images/speakers-img5.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb">
+                  <h3>M. A. (African Theatre-Directing)</h3>
+                  <p> University of Calabar, Calabar </p>
+                  <h3 class="fa fa-calendar color"> 1997</h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3" data-wow-delay="0.5s">
+              <div class="speakers-wrapper padding-item box-shadow width">
+                <!-- <img src="../images/speakers-img5.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb">
+                  <h3>Ph. D. (Theatre Technology)</h3>
+                  <p> University of Calabar, Calabar </p>
+                  <h3 class="fa fa-calendar color"> 2006</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    PUBLICATION SECTION   ============================== -->
+    <section id="publications" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <h3> Discover all Publication by Margaret Akpan through the categories below</h3>
+          <div class="wow fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.3s"> <i class="fa fa-newspaper-o"></i>
+            <h3>Journal Articles</h3>
+            <!--<p> Discover all Journal Publication of Margaret G. Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/journal.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+          <div class="wow fadeInUp col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.6s"> <i class="fa fa-book"></i>
+            <h3>Books</h3>
+            <!--<p> Here are the Book Chapters of Margaret G. Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/books.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+          <div class="wow fadeInRight col-md-4 col-sm-4 box-hover-shadow trans padding-item" data-wow-delay="0.9s"> <i class="fa fa-graduation-cap"></i>
+            <h3>Dissertations</h3>
+            <!--<p> Thesis and Dissertations of Margaret Akpan </p>-->
+            <div class="contact_des"> <a href="../pages/thesis.html" target="_blank" class="btn btn-danger">VIEW</a> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    AWARD SECTION   ============================== -->
+    <section id="video" class="parallax-section">
+      <div class="container">
+        <div class="row">
+          <div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.3s">
+            <h2 class="media-font-size">Distinctions and Awards</h2>
+            <div class=" box-shadow padding-item margin-bottom">
+              <p> Won Faculty of Arts Prize for best All-Round student </p>
+              <p> <i class="fa fa-calendar color"> 1982</i> </p>
+            </div>
+            <div class=" box-shadow padding-item margin-bottom">
+              <p> Best Graduating Student Department of Theatre Arts University of Calabar </p>
+              <p> <i class="fa fa-calendar color"> 1987</i> </p>
+            </div>
+            <div class=" box-shadow padding-item margin-bottom">
+              <p> University of Uyo Staff Development Award </p>
+              <p> <i class="fa fa-calendar color"> 4999-2005</i> </p>
+            </div>
+          </div>
+          <div class="wow fadeInUp col-md-6 col-sm-10" data-wow-delay="1.6s">
+            <div class="embed-responsive embed-responsive-16by9 border-image"> <img src="../images/maggie-picture-removebg-preview.png" class="img-responsive"
+                alt="Overview"> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- =========================
+    Creative SECTION   ============================== -->
+    <section id="speakers" class="parallax-section ">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 wow bounceIn">
+            <div class="section-title">
+              <h2 class="media-font-size">Creative Works</h2>
+              <p>Creative Works and Stage Productions of Margaret Akpan</p>
+            </div>
+          </div>
+          <!-- Testimonial Owl Carousel section
+			================================================== -->
+          <div id="creativities" class="owl-carousel">
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.9s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-1.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-height">
+                  <p class="color">Costume production titled</p>
+                  <p> “African Heritage” showcasing , different traditional costumes across selected African Countries. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2010</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-2.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-height">
+                  <p class="color">Costume production titled</p>
+                  <p> “A time to dance” showcasing costume designs for eight different dances across the globe </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2011</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.9s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-3.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-height">
+                  <p class="color">Costume production titled</p>
+                  <p> Crowns and Kingdoms” showcasing costume design for different kingdoms in Nigeria </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2012</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-4.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-height">
+                  <p class="color">Costume production titled</p>
+                  <p> "Celebration of History” showcasing period’ costumes and makeup. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2012/2013</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-6.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-heigh">
+                  <p class="color">Costume production titled</p>
+                  <p> The Transformation of actors into characters through traditional costumes and makeup. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2012/2013</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-5.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-heigh">
+                  <p class="color">Costume production titled</p>
+                  <p> ‘Monikim’ revealing original costumes used in Northern Cross River Maiden dance by Akpan, Margaret G. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2017</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-6.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-heigh">
+                  <p class="color">Costume production titled</p>
+                  <p> Keeping Dance Costume Heritage alive in Contemporary Nigerian Theatre by Akpan, Margaret G. &amp; Victor Thompson. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                </div>
+              </div>
+            </div>
+            <div class="item wow fadeInUp col-md-3 col-sm-3 " data-wow-delay="0.6s">
+              <div class="speakers-wrapper padding-item  box-hover-shadow trans">
+                <!-- <img src="../images/cos-1.jpg" class="img-responsive" alt="speakers"> -->
+                <div class="speakers-thumb caro-heigh">
+                  <p class="color">Costume production titled</p>
+                  <p> ‘Nkuho revealing original Efik costumes for the ‘Ekombi’ dance’ by Akpan, Margaret G. </p>
+                  <h3 class="madia-font-size"><i class="fa fa-calendar color"> 2018</i></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- =========================
+    Experience SECTION   ============================== -->
+      <div id="experince">
+        <section id="program" class="parallax-section">
+          <div class="container">
+            <div class="row">
+              <div class="wow fadeInUp col-md-12 col-sm-12" data-wow-delay="0.6s">
+                <div class="section-title">
+                  <h2 class="media-font-size">Work Experience</h2>
+                  <p> Work Experience in the University of Uyo </p>
+                </div>
+              </div>
+              <div class="wow fadeInUp col-md-10 col-sm-10" data-wow-delay="0.9s" style="text-align: left;">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                  <li class="active"><a href="#fday" aria-controls="fday" role="tab" data-toggle="tab"> Courses </a></li>
+                  <li><a href="#sday" aria-controls="sday" role="tab" data-toggle="tab">Responsibility</a> </li>
+                  <li><a href="#tday" aria-controls="tday" role="tab" data-toggle="tab">Research</a></li>
+                </ul>
+                <!-- tab panes -->
+                <div class="tab-content">
+                  <div role="tabpanel" class="tab-pane active" id="fday">
+                    <!-- program speaker here -->
+                    <div class="col-md-2 col-sm-2 moblie-img"> <img src="../images/img-2.jpeg" class="img-responsive " alt="program"> </div>
+                    <div class="col-md-10 col-sm-10">
+                      <h3 class="media-font-size">Courses taught in the University of Uyo</h3>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1992-1999, 2005</i></h4>
+                      <p> THA 137: Basic Speech Arts </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1993-1997</i></h4>
+                      <p> THA 147: Introduction to Acting Skills </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1992-1999, 2005</i></h4>
+                      <p> THA 269: Fundamentals of Costume, Mask and Make-up </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1993 - 1995</i></h4>
+                      <p> THA 256: Introduction to Directing </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1993 - 1997</i></h4>
+                      <p> THA 247: Speech Arts </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2008-2015</i></h4>
+                      <p> THA 217: Basic Non-verbal communication </p>
+                      <h4><i class="fa fa-calendar color"> 1998 - 1999</i></h4>
+                      <p> THA 231: Dramatic Theory and Criticism. </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2012-2015</i></h4>
+                      <p> THA347: Advanced Acting </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1992-1999, 2005-date</i></h4>
+                      <p> THA 399: Costume Mask and Make-up </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1999, 2005-date</i></h4>
+                      <p> THA 439: Costume Design and Visual Presentation </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1996-1999, 2005-date </i></h4>
+                      <p> THA 429: Advanced Costume and Make-up </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1996-1999, 2005-date </i></h4>
+                      <p> THA 459: Make-up Design and Appearance </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1996-1997 </i></h4>
+                      <p> THA 411: Topics in Theatre Studies </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 1996-1999, 2005-date </i></h4>
+                      <p> THA 441: Projects </p>
+                    </div>
+                  </div>
+                  <div role="tabpanel" class="tab-pane" id="sday">
+                    <!-- program speaker here -->
+                    <div class="col-md-2 col-sm-2 moblie-img"> <img src="../images/img-3.jpeg" class="img-responsive " alt="program"> </div>
+                    <div class="col-md-10 col-sm-10">
+                      <h3 class="media-font-size">Responsibilities undertaken by Margaret Akpan</h3>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2005-2007</i></h4>
+                      <p> Member, Departmental! Productions Committee </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2005 - 2016</i></h4>
+                      <p> Coordinator, Student’s Projects, Department of Theatre Arts </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2006-date</i></h4>
+                      <p> Supervisor, Environmental Sanitation Committee Department of Theatre Arts </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2009 — 2016,2018</i></h4>
+                      <p> Exams Officer, Diploma in Theatre Arts </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2016-2018</i></h4>
+                      <p> Head of Department </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2014-2017</i></h4>
+                      <p> Faculty of Arts representative for Faculty of Education </p>
+                      <h4><i class="fa fa-calendar color"> 2017</i></h4>
+                      <p> Secretary, Faculty of Arts International Conference (FAICON) Committee: </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2006-2016 </i></h4>
+                      <p> Students Staff adviser, Department of Theatre Arts University of Uyo </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2016 till date</i></h4>
+                      <p> Member, Advisory Board of UNIUYO Consultancy: Limited (for Collectibles) </p>
+                    </div>
+                  </div>
+                  <div role="tabpanel" class="tab-pane" id="tday">
+                    <!-- program speaker here -->
+                    <div class="col-md-2 col-sm-2 moblie-img"> <img src="../images/img-4.jpeg" class="img-responsive " alt="program"> </div>
+                    <div class="col-md-10 col-sm-10">
+                      <h6> </h6>
+                      <h3 class="media-font-size">Researches undertaken by Margaret Akpan</h3>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2007</i></h4>
+                      <p> Thematic Interpretation of Costumes in the 2007 Cross River Christmas Festival and Carnival. </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2008</i></h4>
+                      <p> Space ASA Major Factor in Technical Theatre Management </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2009</i></h4>
+                      <p> Designing Costume for Characterization. A study of Selected Nigerian Home Movies </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2009 </i></h4>
+                      <p> Designing Fabrics with Vat Dyes, A Practical Experience </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2010 </i></h4>
+                      <p> Challenges of A Costume Designer in a Changing Economy </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2010</i></h4>
+                      <p> Symbols and Meanings in Two African Beading Cultures </p>
+                      <h4><i class="fa fa-calendar color"> 2010</i></h4>
+                      <p> The Role of Costumes in African Traditional Theatre </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2010</i></h4>
+                      <p> Images of the Grim In Kalu Uka's The Hunt for Sugar Baby </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2010 </i></h4>
+                      <p> The Paraphernalia of Ekpe Efik Masquerade </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2011</i></h4>
+                      <p> Decoration, and Symbolic Designs in Selected African a Costumes </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2011 </i></h4>
+                      <p> The diverse symbolism of Traditional Mask in the Nigerian Dramatic Society </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2014 </i></h4>
+                      <p> Technical analysis of the Traditional and Western Make-up Design towards character development in a play production. </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2011 </i></h4>
+                      <p> Three Ancient Costumes: Critical Analysis. </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2012</i></h4>
+                      <p> The use of Fabrics, patterns and colours in the contemporary theatre </p>
+                      <hr>
+                      <h4><i class="fa fa-calendar color"> 2014</i></h4>
+                      <p> Patterns, Meaning and Characterization in Costume Design. </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- =========================
+   Conference SECTION   ============================== -->
+      <section id="register" class="parallax-section">
+        <div class="container">
+          <h2 class="media-font-size conference-respon"> Conference With Papers Presentation </h2>
+          <div class="row space-inbetween">
+            <div class="wow fadeInUp col-md-7 col-sm-7 box-shadow padding-item" data-wow-delay="0.6s">
+              <h4 class="conference-title bottom-padding"> Conference </h4>
+              <i class="fa fa-calendar color"> 2012</i>
+              <p> Annual Conference of the Society of Nigerian Theatre Artists (SONTA), Department of Theatre Arts, University of Calabar, Calabar,
+                Nigeria . </p>
+              <hr> <i class="fa fa-calendar color"> 2013</i>
+              <p> Annual Conference of the Society of Nigerian Theatre Artists (SONTA). Department of Theatre Arts, Benue State University, Makurdi,
+                Nigeria. </p>
+              <hr> <i class="fa fa-calendar color"> 2016</i>
+              <p> Faculty of Arts International Conference (FAICON), University of Uyo, Akwa Ibom State, Nigria. 2014, Paper: Challenges of the
+                Make-up Artist in the Little Play House, Faculty of Arts international Conference (FAICON), University of Uyo, Akwa lbom State,
+                Nigeria. </p>
+            </div>
+            <div class="wow fadeInUp col-md-5 col-sm-5 box-shadow padding-item" data-wow-delay="1s">
+              <h4 class="conference-title bottom-padding"> Papers </h4>
+              <p> Carnival Arts and Street Theatre as Emergent Trend in Cultural Tourism. </p>
+              <hr>
+              <p> Keeping Dance Costumes Heritage Alive in Contemporary Migentan Theatre. </p>
+              <hr>
+              <p> Annual Costume and Makeup of the Eka Uman Ceremony in Ibibio Cultural Life </p>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    Gallery 0ne SECTION   ============================== -->
+      <section id="journal" class="parallax-section section-margin section-padding">
+        <div class="container ">
+          <h3 style="color: black; " class="media-font-size"> Pictures Costume Production By Margaret Akpan </h3>
+          <p class="fa fa-calendar" style="color: red; font-size: 30px;"> 2017</p>
+          <div class="grid-display padding-item my-grid-gap">
+            <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size box-shadow item-width" data-wow-delay="0.3s">
+              <img src="../images/25/section-1-g-3.jpg" class="img-responsive" alt="speakers">
+              <h5>Pictures Costume Production of <i>Monikim</i></h5>
+              <a href="../gallery.html" target="_blank" class="btn btn-danger">View the Gallery for more</a> </div>
+            <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size box-shadow item-width" data-wow-delay="0.3s">
+              <img src="../images/26/section-2-g-3.jpg" class="img-responsive" alt="speakers">
+              <h5>Pictures of Costume Production of <i>Nkuho</i>m</h5>
+              <a href="../gallery.html" target="_blank" class="btn btn-danger">View the Gallery for more</a> </div>
+            <div class="wow  fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item item-size box-shadow item-width" data-wow-delay="0.3s">
+              <img src="../images/27/section-3-g-8.jpg" class="img-responsive" alt="speakers">
+              <h5>Pictures of Costume of Keeping Dance Heritage Alive in Contemporary Nigeria</h5>
+              <a href="../gallery.html" target="_blank" class="btn btn-danger">View the Gallery for more</a> </div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    Services section  ============================== -->
+      <div id="services">
+        <section id="faq" class="parallax-section">
+          <div class="container">
+            <div class="row">
+              <!-- Section title
+			================================================== -->
+              <div class="wow bounceIn col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10 text-center">
+                <div class="section-title">
+                  <h2>Services</h2>
+                  <p class="media-font-size"></p>
+                </div>
+              </div>
+              <div class="wow fadeInUp col-md-offset-1 col-md-10 col-sm-offset-1 col-sm-10" data-wow-delay="0.9s">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true" style="text-align: left;">
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                      <h4 class="panel-title"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false"
+                          aria-controls="collapseOne"> Committee and Community Service within the University </a> </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                      <div class="panel-body"> <i class="fa fa-calendar color"> 2008-2018</i>
+                        <p> Member, University Committee on the production of Academic Gowns </p>
+                        <i class="fa fa-calendar color"> 2008-2018</i>
+                        <p> Member, Convocation Sub-committee on Entertainment </p>
+                        <i class="fa fa-calendar color"> 2017</i>
+                        <p> Member, Convocation Sub-committee on Venue </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo">
+                      <h4 class="panel-title"> <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false"
+                          aria-controls="collapseTwo"> National/State/Community Services outside the University </a> </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                      <div class="panel-body"> <i class="fa fa-calendar color"> 2003</i>
+                        <p> Member, Production Committee, 6th All African Games (COJA) Abuja. </p>
+                        <i class="fa fa-calendar color"> 2005-2006</i>
+                        <p> Member, Costume Production Committee, Cross River State Christmas Carnival </p>
+                        <i class="fa fa-calendar color"> 2002-2004</i>
+                        <p> Treasurer, Actors Guild of Nigeria, Cross River State Chapter </p>
+                        <i class="fa fa-calendar color"> 2002-2004</i>
+                        <p> Treasurer, Actors Guild of Nigeria, Cross River State Chapter </p>
+                        <i class="fa fa-calendar color"> 1997</i>
+                        <p> Costumier and Make-Up Artist for Askari by Ben Tomoloju - An International Red Cross Theatre Project for South Eastern
+                          Nigeria. Toured Uyo, Calabar, Port-Harcourt, Owerri &amp; Enugu, Asaba </p>
+                        <i class="fa fa-calendar color"> 2001</i>
+                        <p> Costumier for Then She Said It by Tess Onweme A Ford Foundation Theatre Project for Niger Delta. Toured Calabar, Port
+                          Harcourt, Warri, Asaba </p>
+                        <i class="fa fa-calendar color"> 2003 </i>
+                        <p> Make-up Artist for Things Fail Apart (Adapted by Bassey Effiong). A Nantap Festival Theatre Project Toured Calabar, Port
+                          Harcourt, Lagos </p>
+                        <i class="fa fa-calendar color"> 2013-date</i>
+                        <p> Member Editorial Board, Scene Dock: Journal of Theatre Design and echnology (A Journal of the Society of Nigeria Theatre
+                          Artists SONTA): </p>
+                        <i class="fa fa-calendar color"> 2008 - date</i>
+                        <p> Advisor for Seagull Band on technical matters in Carnival Calabar </p>
+                        <i class="fa fa-calendar color"> 2010-2013</i>
+                        <p> Advisor for Akwa Ibom State on technical matters for contingents for Abuja Carnival </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- =========================
+    VENUE SECTION   ============================== -->
+      <section id="venue" class="parallax-section">
+        <div class="container">
+          <div class="row">
+            <div class="wow fadeInLeft col-md-offset-1 col-md-5 col-sm-8" data-wow-delay="0.9s">
+              <h2 class="media-font-size set-text-white set-text-align-center">Exhibition</h2>
+              <i class="fa fa-calendar color"> 2011</i>
+              <p class="set-text-white"> Participated in the University of Uyo Maiden Exhibition, show casing different theatrical costumes, beads,
+                tie-dye, crowns, mask and hand embroidery designs. </p>
+              <hr> <i class="fa fa-calendar color"> 2019</i>
+              <p class="set-text-white"> As part of the Season of Productions, period costumes, African costumes, tie/dye designs, hand embroidery
+                designs, neck beads, fabrics, threads, hoops fascinators, beaded shoe and cap, carnival costumes, fabric and make-up picture album,
+                cosmetics etc were exhibited. for the purpose of entertainment, education and spectacle. </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    bodies SECTION   ============================== -->
+      <section id="Bodies" class="parallax-section">
+        <div class="container">
+          <div class="row ">
+            <h3 style="color: black; " class="media-font-size">Membership of Professional Bodies</h3>
+            <div class="flex-display">
+              <div class="wow fadeInLeft col-md-4 col-sm-4 box-hover-shadow trans padding-item " data-wow-delay="0.3s">
+                <div class="center-img media-img image-width" align="center"> <img src="../images/logo-1.jpg" class="img-responsive " alt="speakers">
+                </div>
+                <div class=" border block-width padding-item">
+                  <h2 style="color: black;">SONTA</h2>
+                  <p> Discover all Journal Publication of Margaret G. Akpan </p>
+                </div>
+              </div>
+              <div class="wow fadeInUp col-md-4 col-sm-4 box-hover-shadow trans padding-item " data-wow-delay="0.6s">
+                <div class="center-img media-img" align="center"> <img src="../images/logo-2.jpg" class="img-responsive " alt="speakers"> </div>
+                <div class=" border block-width padding-item">
+                  <h2 style="color: black;">NANTAP</h2>
+                  <p> National Association of Nigerian Theatre Arts Practitioners </p>
+                </div>
+              </div>
+              <div class="wow fadeInRight col-md-4 col-sm-4 box-hover-shadow trans padding-item img-align" data-wow-delay="0.9s">
+                <div class="center-img media-img" align="center"> <img src="../images/logo-3.jpg" class="img-responsive " alt="speakers"> </div>
+                <div class=" border block-width ">
+                  <h2 style="color: black;">AGN</h2>
+                  <p> Actors Guild of Nigeria </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    CONTACT SECTION   ============================== -->
+      <section id="contact" class="parallax-section">
+        <div class="container">
+          <div class="row">
+            <div class="wow fadeInUp col-md-offset-1 col-md-5 col-sm-6" data-wow-delay="0.6s">
+              <div class="contact_des">
+                <p class="set-text-white" align="left"> Dr. Margaret G. Akpan a costume designer and consultant with academic affiliation at
+                  Department of Theatre Arts, University of Uyo, Uyo, Akwa Ibom State, Nigeria </p>
+                <div class="media-img"> <img src="../images/cos-5.png" class="img-responsive " alt="speakers"> </div>
+                <div class="">
+                  <div class="flex-item">
+                    <ul class="social-icon_1">
+                      <li class="fa fa-phone wow fadeInUp set-text-white" data-wow-delay="1s"><br>
+                      </li>
+                    </ul>
+                    <ul class="social-icon_2">
+                      <li class=" set-text-white contact-font">08023393571</li>
+                    </ul>
+                  </div>
+                  <div class="flex-item">
+                    <ul class="social-icon_1">
+                      <li class="fa fa-envelope wow fadeInUp set-text-white" data-wow-delay="1s"><br>
+                      </li>
+                    </ul>
+                    <ul class="social-icon_2">
+                      <li class=" set-text-white contact-font">eggylee59@yahoo.com</li>
+                    </ul>
+                  </div>
+                </div>
+                <a href="../cv/CURRICULUM%20VITAe.pdf" download="../cv/CURRICULUM VITAe.pdf" class="btn btn-danger">DOWNLOAD CV</a> </div>
+            </div>
+            <div class="wow fadeInUp col-md-5 col-sm-6" data-wow-delay="0.9s">
+              <div class="contact_detail">
+                <div class="section-title">
+                  <h2 class="set-text-white media-font-size">Contact me</h2>
+                </div>
+                <form action="mailto:eggylee59@yahoo.com" method="post"> <input name="name" class="form-control" id="name" placeholder="Name" type="text">
+                  <input name="email" class="form-control" id="email" placeholder="Email" type="email"> <textarea name="message" rows="5" class="form-control"
+id="message" placeholder="Message"></textarea>
+                  <div class="col-md-6 col-sm-10"> <input name="submit" class="form-control" id="submit" value="SEND" type="submit"> </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- =========================
+    FOOTER SECTION   ============================== -->
+      <footer>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2023 Margaret Gregory Akpan | By: <a rel="nofollow" href="http://dynetng.org"
+                  target="_parent">DyNETTech LLC</a></p>
+              <ul class="social-icon">
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/rg.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/gs.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/scopus.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/wos.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/academia.png" width="50px"> </a></li>
+                <li><a href="#" class=" wow fadeInUp" data-wow-delay="1.6s"> <img src="../images/orcid.png" width="50px"> </a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- Back top -->
+      <!-- =========================
+     SCRIPTS   ============================== -->
+      <script src="../js/jquery.js"></script>
+      <script src="../js/bootstrap.min.js"></script>
+      <script src="../js/jquery.parallax.js"></script>
+      <script src="../js/owl.carousel.min.js"></script>
+      <script src="../js/smoothscroll.js"></script>
+      <script src="../js/wow.min.js"></script>
+      <script src="../js/custom.js"></script> </section>
+  </body>
+</html>

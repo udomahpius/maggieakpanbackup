@@ -1,0 +1,121 @@
+
+
+
+
+
+
+.item-width{
+    width: 100%;
+  }
+  
+  @media (max-width: 500px){
+    .grid-display, .flex-display{
+        display:block !important;
+        /* grid-template-columns: repeat(1, 1fr) !important; */
+    }
+    
+    .image-width img{
+        width: 100% !important;
+    }
+  }
+  @media (min-width: 500px){
+    .grid-display, .flex-display{
+        display:grid !important;
+        grid-template-columns: repeat(1, 1fr) !important;
+    }
+    .media-img img{
+        width: 230px !important;
+    }
+    .image-width img{
+        width: 300px!important;
+    }
+  }
+  @media (min-width: 700px){
+    .grid-display, .flex-display{
+        display:grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    
+  }
+  @media (min-width: 990px){
+    .grid-display, .flex-display{
+        display:grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+    
+  }
+  @media (min-width: 1200px){
+    .grid-display, .flex-display{
+        display:grid !important;
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+    
+  }
+/* for ios */
+@media (min-device-width: 750px){
+  .grid-display, .flex-display{
+      display:grid !important;
+      grid-template-columns: repeat(2, 1fr) !important;
+  }
+  
+}
+@media (min-device-width: 1000px){
+  .grid-display, .flex-display{
+      display:grid !important;
+      grid-template-columns: repeat(3, 1fr) !important;
+  }
+  
+}
+@media (min-device-width: 1350px){
+  .grid-display, .flex-display{
+      display:grid !important;
+      grid-template-columns: repeat(4, 1fr) !important;
+  }
+  
+}
+
+
+
+/* .grid-display{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+} */
+
+#thesis h3 {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+#thesis h6 {
+  color: #666;
+  margin-top: 4px;
+}
+
+#thesis img {
+  width: auto;
+  max-width: auto;
+  height: auto;
+  margin: 0 auto;
+}
+
+#thesis .col-md-3 {
+    display: block;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 22px;
+}
+.item-size{
+    width: 100%;
+}
+
+#thesis .speakers-wrapper {
+    background: #ffffff;
+    padding-bottom: 22px;
+}
+.thesis-card-height{
+    height: 100% !important;
+    width: 100% !important;
+  }
+  
+
