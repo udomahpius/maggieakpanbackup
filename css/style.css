@@ -1023,6 +1023,3 @@ footer {
 .grid-display{
   grid-gap: 4rem !important;
 }
-.flex-display{
-  display: flex;
-}
