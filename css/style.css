@@ -1102,3 +1102,9 @@ footer {
   }
   
 }
+@media screen and(min-width:350px) {
+  .row{
+    display: grid !important;
+    grid-template-columns: auto !important;
+  }
+}
