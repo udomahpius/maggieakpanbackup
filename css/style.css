@@ -1031,14 +1031,14 @@ footer {
 }
 
 @media (max-width: 500px){
-  .home-grid{
+  .home-grid, .grid-display{
       display:block !important;
   }
 }
 
 
 @media (min-width: 500px){
-  .home-grid{
+  .home-grid,.grid-display{
       display:grid !important;
       grid-template-columns: repeat(1, 1fr) !important;
   }
@@ -1050,21 +1050,21 @@ footer {
   }
 }
 @media (min-width: 700px){
-  .home-grid{
+  .home-grid, .grid-display{
       display:grid !important;
       grid-template-columns: repeat(2, 1fr) !important;
   }
   
 }
 @media (min-width: 990px){
-  .home-grid{
+  .home-grid, .grid-display{
       display:grid !important;
       grid-template-columns: repeat(3, 1fr) !important;
   }
   
 }
 @media (min-width: 1200px){
-  .home-grid{
+  .home-grid, .grid-display{
       display:grid !important;
       grid-template-columns: repeat(3, 1fr) !important;
   }
@@ -1072,21 +1072,21 @@ footer {
 }
 /* for ios */
 @media (min-device-width: 750px){
-.home-grid{
+.home-grid, .grid-display{
     display:grid !important;
     grid-template-columns: repeat(2, 1fr) !important;
 }
 
 }
 @media (min-device-width: 1000px){
-.home-grid{
+.home-grid, .grid-display{
     display:grid !important;
     grid-template-columns: repeat(3, 1fr) !important;
 }
 
 }
 @media (min-device-width: 1350px){
-.home-grid{
+.home-grid,.grid-display{
     display:grid !important;
     grid-template-columns: repeat(3, 1fr) !important;
 }
