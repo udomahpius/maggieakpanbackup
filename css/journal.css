@@ -15,10 +15,6 @@
     }
   
   @media (min-width: 500px){
-    .grid-display, .flex-display{
-        display:grid !important;
-        grid-template-columns: repeat(1, 1fr) !important;
-    }
     .media-img img{
         width: 230px !important;
     }
@@ -26,14 +22,13 @@
         width: 300px!important;
     }
   }
-  @media (min-width: 700px){
+  @media (max-width: 700px){
     .grid-display, .flex-display{
-        display:grid !important;
-        grid-template-columns: repeat(2, 1fr) !important;
+        display:block !important;
     }
     
   }
-  @media (min-width: 990px){
+  @media (min-width: 1050px){
     .grid-display, .flex-display{
         display:grid !important;
         grid-template-columns: repeat(3, 1fr) !important;
