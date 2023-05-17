@@ -3,7 +3,7 @@
     width: 100%;
   }
   
-  @media (max-width: 500px){
+
     .grid-display, .flex-display{
         display:block !important;
         /* grid-template-columns: repeat(1, 1fr) !important; */
@@ -12,7 +12,7 @@
     .image-width img{
         width: 100% !important;
     }
-  }
+
   @media (min-width: 500px){
     .grid-display, .flex-display{
         display:grid !important;
