@@ -1030,6 +1030,11 @@ footer {
   display:block !important;
 }
 
+@media (max-width: 500px){
+  .home-grid{
+      display:block !important;
+  }
+}
 
 
 @media (min-width: 500px){
